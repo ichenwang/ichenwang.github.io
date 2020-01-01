@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Chen Wang"
   avatar           : "bio-photo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Scientist"
+  location         : "Somewhere"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ichenwang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "mchenwang"
   vine             :
   weibo            :
   xing             :
@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  travels:
     output: true
     permalink: /:collection/:path/
 
@@ -236,10 +236,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _travels
   - scope:
       path: ""
-      type: talks
+      type: travels
     values:
       layout: talk
       author_profile: true
