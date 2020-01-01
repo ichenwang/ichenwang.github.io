@@ -1,11 +1,10 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
-collection: talks
+title: "Pokhara, Sky"
+collection: travels
 type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+permalink: /travels/2019-01-03-nepal-pokhara
+date: 2019-01-04
+location: "Pokhara, Nepal"
 ---
 
 [More information here](http://exampleurl.com)
