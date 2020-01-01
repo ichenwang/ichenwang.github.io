@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "C.V."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,22 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, INRIA, 2009 ~ 2012
+* M.S. in Computer Science and Mathematics, Telecom Bretagne, 2007 ~ 2009
+* B.S. in Computer Science and Technology, Tongji University, 2003 ~ 2007
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 ~ Now: Senior Researcher
+  * Russel Department, 2012 Labs, Huawei
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2014 ~ 2017: Research Scientist
+  * Corporate Research Department, Robert Bosch Group
+
+* 2012 ~ 2013: Research Engineer
+  * Myriads Research Team, INRIA
+
 Skills
 ======
 * Skill 1
@@ -36,24 +35,46 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+References
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Dr. Shay Horovitz
+  * Senior Expert
+
+* Dr. Hannes Rose
+  * Senior Manager / Team Leader
+  * Research and Technology Center Asia Pacific, Robert Bosch
+  * Postal address:
+  * Email:
+  * Homepage:
+
+* Prof. Jean-Louis Pazat
+  * Full professor / Supervisor of Ph.D Thesis
+  * Dean of Computer Science Department, INSA Rennes
+  * Postal address:
+  * Phone:
+  * Email:
+  * Homepage:
+
+* Dr. Christine Morin
+  * Research Director
+  * Team leader - Myriads Research Team
+  * Postal address:
+  * Email:
+  * Homepage:
+
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
