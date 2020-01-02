@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-<img src="images/front-page.png" width="800">
-
-I am a senior researcher.
+<img src="images/front-page.png">
