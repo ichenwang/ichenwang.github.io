@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>1.1 Clustering Analysis</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(font-Droid+Serif.css);
+      @import url(font-Ubuntu+Mono.css);
+      @import url(font-Yanone+Kaffeesatz.css);
+      @import url(font-Oswald.css);
+      @import url(font-courgette.css);
+      @import url(font-Caveat.css);
+      @import url('https://fonts.googleapis.com/css?family=Architects+Daughter|Caveat|Charm|Gloria+Hallelujah|Kalam|Marck+Script|Mogra|Niconne|Nothing+You+Could+Do|Roboto');
+      @page {
+  size: 1024px 768px;
+  margin: 0;
+}
+
+@media print {
+  .remark-slide-scaler {
+    width: 100% !important;
+    height: 100% !important;
+    transform: scale(1) !important;
+    top: 0 !important;
+    left: 0 !important;
+  }
+}
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: 400;
+        margin-bottom: 0;
+        margin-top: 10px;
+      }
+      h1 { font-size: 3.5em; }
+      h2 { font-size: 3em; }
+      h3 { font-size: 1.6em; }
+      .inverse {
+        background: #272822;
+        color: #777872;
+        text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2 {
+        color: #f3f3f3;
+        line-height: 0.8em;
+      }
+      blockquote {
+          background: #f9f9f9;
+          border-left: 10px solid #ccc;
+          margin: 1.5em 10px;
+          padding: 0.5em 10px;
+          quotes: "\201C""\201D""\2018""\2019";
+      }
+      blockquote:before {
+        color: #ccc;
+        content: open-quote;
+        font-size: 4em;
+        line-height: 0.1em;
+        margin-right: 0.25em;
+        vertical-align: -0.4em;
+      }
+      blockquote p {
+        font-family: 'Nothing You Could Do', cursive;
+        color: #A9A9A9;
+        font-size: 20pt;
+        display: inline;
+      }
+      blockquote footer {
+        margin-top: .5em;
+        padding: 0;
+        color: #777;
+        font-size: 12pt;
+        text-align: left;
+        font-style: italic;
+      }
+      blockquote footer:before {
+        content: '—- ';
+      }
+      pre {
+        border-left: 0.4em solid #d7d7d7;
+        padding: 1em !important;
+      }
+      code {
+	    font-family:'Courier New';
+      }
+      a {
+        color: #F92672;
+        text-decoration: none;
+      }
+      table {
+        border-collapse: collapse;
+        font-size: 12pt;
+      }
+      th, td {
+        padding: 5px 15px;
+        border-bottom: 1px solid #cccccc;
+      }
+      .category_table tr:first-child td {
+    border-bottom: 2px solid #000000;
+    background: #f2f2f2;
+}
+      .task {
+        float: right;
+        font-size: 0.9em;
+        padding-top: 0.6em;
+      }
+      .task a {
+        color: #080;
+        text-decoration: none;
+      }
+      .right {
+        float: right;
+        margin-left: 1em;
+      }
+      .pushdown {
+        margin-top: 12em;
+      }
+  </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+    </textarea>
+    <script src="remark-latest.min.js"></script>
+    <script src="katex.min.js"></script>
+    <script src="auto-render.min.js"></script>
+    <link rel="stylesheet" href="katex.min.css">
+    <script type="text/javascript">
+        var options = {};
+          var renderMath = function() {
+            renderMathInElement(document.body);
+            // or if you want to use $...$ for math,
+            renderMathInElement(document.body, {delimiters: [ // mind the order of delimiters(!?)
+                 {left: "$$", right: "$$", display: true},
+                 {left: "$", right: "$", display: false},
+                 {left: "\\[", right: "\\]", display: true},
+                 {left: "\\(", right: "\\)", display: false},
+            ]});
+          }
+
+      var slideshow = remark.create({
+		highlightStyle: 'monokai',
+		highlightLanguage: 'python',
+		highlightLines: true,
+		ratio: '16:9',
+		sourceUrl: 'slides.md',
+        countIncrementalSlides: false
+	}, renderMath);
+    </script>
+  </body>
+</html>
