@@ -3,7 +3,7 @@ title: "Angkor Wat"
 collection: travels
 # type: "Tutorial"
 permalink: /travels/2018-02-14-angkorwat-cambodia
-date: 2018-04-03
+date: 2018-02-14
 location: "Angkor Wat, Cambodia"
 ---
 
