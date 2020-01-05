@@ -1,10 +1,10 @@
 ---
-title: "Hong Kong"
+title: "Angkor Wat"
 collection: travels
 # type: "Tutorial"
-permalink: /travels/2018-05-01-hk-china
-date: 2018-05-01
-location: "HK, China"
+permalink: /travels/2018-02-14-angkorwat-cambodia
+date: 2018-04-03
+location: "Angkor Wat, Cambodia"
 ---
 
 [More information here](http://exampleurl.com)

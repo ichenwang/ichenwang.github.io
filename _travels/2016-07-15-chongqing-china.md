@@ -1,10 +1,10 @@
 ---
-title: "Hong Kong"
+title: "chong qing"
 collection: travels
 # type: "Tutorial"
-permalink: /travels/2018-05-01-hk-china
-date: 2018-05-01
-location: "HK, China"
+permalink: /travels/2016-07-15-chongqing-china
+date: 2016-07-15
+location: "Chongqing, China"
 ---
 
 [More information here](http://exampleurl.com)

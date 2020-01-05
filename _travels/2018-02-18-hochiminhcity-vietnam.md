@@ -1,10 +1,10 @@
 ---
-title: "Hong Kong"
+title: "Ho Chi Minh City"
 collection: travels
 # type: "Tutorial"
-permalink: /travels/2018-05-01-hk-china
-date: 2018-05-01
-location: "HK, China"
+permalink: /travels/2018-02-18-hochiminhcity-vietnam
+date: 2018-02-18
+location: "Ho Chi Minh City, Vietnam"
 ---
 
 [More information here](http://exampleurl.com)

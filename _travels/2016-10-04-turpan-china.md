@@ -1,10 +1,10 @@
 ---
-title: "Hong Kong"
+title: "Turpan"
 collection: travels
 # type: "Tutorial"
-permalink: /travels/2018-05-01-hk-china
-date: 2018-05-01
-location: "HK, China"
+permalink: /travels/2016-10-04-turpan-china
+date: 2016-10-04
+location: "Turpan, China"
 ---
 
 [More information here](http://exampleurl.com)

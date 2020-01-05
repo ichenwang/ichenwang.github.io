@@ -1,10 +1,10 @@
 ---
-title: "Hong Kong"
+title: "Ngari Prefecture"
 collection: travels
 # type: "Tutorial"
-permalink: /travels/2018-05-01-hk-china
-date: 2018-05-01
-location: "HK, China"
+permalink: /travels/2016-09-12-ngariprefecture-china
+date: 2016-09-12
+location: "Ngari Prefecture, China"
 ---
 
 [More information here](http://exampleurl.com)
